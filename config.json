@@ -1,0 +1,11 @@
+{
+    "gitlab_telegram": {
+        "project": [
+            {
+                "telegram_group_id": "",
+                "gitlab_webhook_project_secret": "",
+                "gitlab_webhook_project_url": ""
+            }
+        ]
+    }
+}
